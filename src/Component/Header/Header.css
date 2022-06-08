@@ -6,7 +6,7 @@ header {
     padding-top: 2px;
   }
   header .container .logo img{
-    margin-top: -17px;
+    margin-top: -13px;
     width: 16%;
   } 
   header ul li {
@@ -79,7 +79,7 @@ header {
     .close,
     .open {
       position: absolute;
-      top: 35px;
+      top: 15px;
       right: 20px;
       color: #ff014f;
       display: block;
