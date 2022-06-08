@@ -3,7 +3,7 @@ const data = [
       id: 1,
     //   image: "https://img.icons8.com/ios/64/000000/menu.png",
       title: "Front-end Development",
-      desc: "Building Responsive website Front-end by React js Framework with experience in react Hook and router-dom,,(Html5,Css3,Bootstrap,Javascript,Reactjs...).",
+      desc: "Building Responsive website by React js Framework with react Hook and router-dom,(Html5,Css3,Bootstrap,Javascript,Reactjs..).",
     },
     {
       id: 2,
